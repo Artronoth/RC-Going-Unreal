@@ -10,32 +10,19 @@ Keep in mind there's a lack of UI as i don't like to work with UI but now that i
 
 ## Installation
 
-To be able to open and use the framework you're going to need Unreal Engine 4.27 and some plugins.
+To be able to open and use the framework you're going to need Unreal Engine 5.4 and some plugins.
 
  The Plugins being:
 
--NinjaCharacter
-
--DynamicGravityCharacter
+-DynamicGravityCharacter (required, but already included in the project)
 
 -PythonScriptPlugin
 
 -EditorScriptingUtilities
 
--AutoSizeComments
+-CPathfinding (required)
 
--CPathfinding
-
--FlatNodes
-
--LiveBlueprintDebugger
-
--RecentBlueprintMenu
-
-
-
- Most of the plugins are not even being used and there might be a couple of plugins that i missed but it will tell you when you try to Open the Project.
-
+-FlatNodes (optional)
  
 ## Usage
 

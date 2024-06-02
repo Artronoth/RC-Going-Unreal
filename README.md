@@ -20,7 +20,7 @@ To be able to open and use the framework you're going to need Unreal Engine 5.4 
 
 -EditorScriptingUtilities
 
--CPathfinding (required)
+-Custom Pathfinding (required)
 
 -FlatNodes (optional)
  

@@ -2,9 +2,9 @@
 
 # Ratchet & Clank: Going Unreal
 
-Ratchet & Clank: Going Unreal is a Fan game/Framework made inside of Unreal Engine 4. It's still pretty much in an early state but due to popular demand and other plans i've decided to make it open source. This framework is intended to be a replication (Keep in mind i said Replication and not duplication so things might be a little different for multiple reasons) of Ratchet's core movement mechanic from Going Commando. You'll be able to do things like, customize the code to your liking (If you're experienced with Unreal), create your own levels, make new weapons etc... Endless possibilities. 
+Ratchet & Clank: Going Unreal is a Fan game/Framework made inside of Unreal Engine 4, brought into Unreal Engine 5.4 by Herogon. It's still pretty much in an early state but due to popular demand and other plans the original creator decided to make it open source. This framework is intended to be a replication (Keep in mind i said Replication and not duplication so things might be a little different for multiple reasons) of Ratchet's core movement mechanic from Going Commando. You'll be able to do things like, customize the code to your liking (If you're experienced with Unreal), create your own levels, make new weapons etc... Endless possibilities. 
 
-Keep in mind there's a lack of UI as i don't like to work with UI but now that it's open source you guys can make your own ;). 
+Keep in mind there's a lack of UI as the original creator doesn't like to work with UI but now that it's open source you guys can make your own ;). 
 
 
 
